@@ -17,6 +17,11 @@ public class Solution
 
 		return answer;
 	}
+	
+	private void testGitHub()
+	{
+		
+	}
 
 	/**
 	*  생성된 문자열의 크기를 비교 후 가장 작은 것을 리턴
